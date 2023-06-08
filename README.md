@@ -11,3 +11,8 @@ Android 9			  LineageOS 16					</br>
 Android 8			  LineageOS 15    LineageOS 15.1			</br>
 Android 7			  LineageOS 14					</br>
 Android 6			  LineageOS 13					</br>
+
+准备一些内核和设备文件
+本来执行下面两条命令即可自动下载
+source build/envsetup.sh
+breakfast oneplus3
